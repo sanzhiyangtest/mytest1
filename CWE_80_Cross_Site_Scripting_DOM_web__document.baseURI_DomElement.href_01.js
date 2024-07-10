@@ -53,6 +53,15 @@ function test12() {
     goodG2B();
 }
 
+function test123() {
+    var dom,
+        contactDetails,
+        phonesTemplate,
+        emailsTemplate,
+        dom;
+    goodG2B();
+}
+
 function main() {
     bad();
     good();
