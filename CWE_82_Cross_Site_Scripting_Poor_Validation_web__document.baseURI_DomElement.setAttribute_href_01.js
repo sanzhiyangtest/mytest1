@@ -31,6 +31,15 @@ function good() {
     goodG2B();
 }
 
+function controllertest(msg) {
+    if (msg == 'start')
+        good();
+    else if (msg == 'start')
+        bad();
+    else
+        bad();
+}
+
 function test1() {
     var dom,
         contactDetails,
