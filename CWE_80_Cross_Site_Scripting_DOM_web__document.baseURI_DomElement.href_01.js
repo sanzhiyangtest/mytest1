@@ -53,7 +53,7 @@ function test12() {
     goodG2B();
 }
 
-function test12() {
+function test123() {
     var dom,
         contactDetails,
         phonesTemplate,
