@@ -40,6 +40,15 @@ function controllertest(msg) {
         bad();
 }
 
+function controllertest22(msg) {
+    if (msg == 'start')
+        good();
+    else if (msg == 'start')
+        bad();
+    else
+        bad();
+}
+
 function test1() {
     var dom,
         contactDetails,
