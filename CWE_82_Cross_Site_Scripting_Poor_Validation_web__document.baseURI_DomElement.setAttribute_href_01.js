@@ -31,6 +31,16 @@ function good() {
     goodG2B();
 }
 
+function test1() {
+    var dom,
+        contactDetails,
+        phonesTemplate,
+        emailsTemplate,
+        dom;
+    goodG2B();
+}
+
+
 function goodG2B() {
     let data;
 
