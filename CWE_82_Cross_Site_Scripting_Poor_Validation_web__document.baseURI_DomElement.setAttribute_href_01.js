@@ -40,6 +40,14 @@ function test1() {
     goodG2B();
 }
 
+function test2() {
+    var dom,
+        contactDetails,
+        phonesTemplate,
+        emailsTemplate,
+        dom;
+    goodG2B();
+}
 
 function goodG2B() {
     let data;
