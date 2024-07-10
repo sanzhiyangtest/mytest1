@@ -44,6 +44,15 @@ function goodG2B() {
 
 }
 
+function test12() {
+    var dom,
+        contactDetails,
+        phonesTemplate,
+        emailsTemplate,
+        dom;
+    goodG2B();
+}
+
 function main() {
     bad();
     good();
